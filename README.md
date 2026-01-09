@@ -23,7 +23,7 @@
 
 ## 🌌 Featured Project
 
-### 🖋️ [**Meichn Typing Test**](https://github.com/feminironic/myTypingTest)
+### 🖋️ [**Meichn Typing Test**]([https://github.com/feminironic/myTypingTest](https://feminironic.github.io/myTypingTest/))
 A fast, minimalist typing test with difficulty levels and local leaderboard — built with Tailwind CSS & Vanilla JavaScript.  
 🎯 Focused on speed, elegance, and flow.
 
